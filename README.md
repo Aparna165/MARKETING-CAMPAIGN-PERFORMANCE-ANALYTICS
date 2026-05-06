@@ -17,6 +17,8 @@
 
 The report ingests a single flat `marketing` table and surfaces **8 calculated KPIs** across **3 analytical pages**, powered by **17 unique chart visuals**, **12 interactive slicers**, and **15 KPI cards**. All monetary figures are in **Indian Rupees (INR)**.
 
+<img width="1140" height="632" alt="png" src="https://github.com/user-attachments/assets/5ee10812-0060-447a-966d-6f22bd9db416" />
+
 ---
 
 ## ◈ FILE MANIFEST
@@ -138,6 +140,7 @@ All 8 measures are calculated DAX fields over the `marketing` table.
 │  AUDIENCE : Marketing Directors, CMOs, Business Stakeholders                 │
 │  CANVAS   : 2120 × 1180 px  │  BACKGROUND: #EFF6FF                          │
 └──────────────────────────────────────────────────────────────────────────────┘
+
 ```
 
 #### KPI Cards (5)
